@@ -5,10 +5,16 @@ npm install -g react-native-cli
 //o este
 npm  install -g expo-cli
 
-
 //seguido del 
 expo init "nombre de proyecto"
 
 //para iniciar
 expo start
 npm start
+
+
+---------------------------
+Crear React Native Proyecto
+npm install -g create-react-native-app
+
+create-react-native-app mi-nueva-app
